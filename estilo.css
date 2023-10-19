@@ -117,3 +117,12 @@ opacity: 0.7;
     filter: grayscale(1);
 
 }
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    color: #000000;
+    background-color: #ef406c;
+}
