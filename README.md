@@ -14,17 +14,11 @@
 <details>
 <summary>Habilidades desenvolvidas</summary>
   
--
+- HTML
 
--
+- CSS
 
--
-
--
-
--
-
- 
+- Conhecimento prévio em JavaScript
   
 </details>
 
